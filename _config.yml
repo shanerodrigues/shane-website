@@ -28,7 +28,7 @@ url: "https://shanerodrigues.github.io" # the base hostname & protocol for your 
 github_username:  shanerodrigues
 
 # Build settings
-theme: jekyll-text-theme
+theme: minima
 plugins:
   - jekyll-feed
 
