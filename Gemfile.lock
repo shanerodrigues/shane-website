@@ -145,12 +145,6 @@ GEM
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-swiss (1.0.0)
-    jekyll-text-theme (2.2.5)
-      jekyll (>= 3.6, < 5.0)
-      jekyll-feed (~> 0.1)
-      jekyll-paginate (~> 1.1)
-      jekyll-sitemap (~> 1.0)
-      jemoji (~> 0.8)
     jekyll-theme-architect (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
@@ -212,9 +206,9 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.0)
     multipart-post (2.1.1)
-    nokogiri (1.10.7)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
-    nokogiri (1.10.7-x64-mingw32)
+    nokogiri (1.10.8-x64-mingw32)
       mini_portile2 (~> 2.4.0)
     octokit (4.15.0)
       faraday (>= 0.9)
@@ -259,7 +253,7 @@ DEPENDENCIES
   eventmachine (~> 1.2.7)
   github-pages
   jekyll-feed (~> 0.12)
-  jekyll-text-theme
+  minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
